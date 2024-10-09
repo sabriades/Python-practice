@@ -26,7 +26,5 @@ print(price>10 and price<30) #if both these conditions are true, then it prints 
 print(price>10 or price<30) #if at least one of these conditions is true, it prints true
 print(not price>30) #not operator inverts false to true and viceversa
 
-#if statements - WIP
-#age_in=input("age: ")
-#age=int(age_in)
+
 
