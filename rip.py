@@ -21,3 +21,14 @@ print("your age is "+age)
 #float()
 #bool()
 #str()
+
+example="string in upper method"
+example=print(example.upper())
+example_u="STRING IN LOWER METHOD"
+example_u=print(example_u.lower())
+
+dec="i have flz for you"
+print(dec.replace("for","4"))
+print(dec.find("for")) #index for the keyword given ("for")
+print("for" in dec) #returns a boolean value - True or False
+#24.00
